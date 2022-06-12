@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijulani
+- 👋 Hi, I’m @abheemannu
 - 👀 I’m interested in coding,music and fitness
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on business and project
