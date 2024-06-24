@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @abheemannu
-- 👀 I’m interested in coding,music and fitness
-- 🌱 I’m currently learning coding
+- 👋 Hi, I’m Abhimanyu Saharan
+- 👀 I’m interested in coding, music and fitness.
+- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on business and project
-- 📫 How to reach me by using my no. 9728884322
--
-
-<!---
-abhijulani/abhijulani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can contact me by using my phone no. +91-9728884322
